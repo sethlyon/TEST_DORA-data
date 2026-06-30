@@ -2598,7 +2598,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -2610,7 +2610,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -2622,7 +2622,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "mgr.approver"
@@ -2634,7 +2634,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -2694,7 +2694,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -2706,7 +2706,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -2718,7 +2718,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -2730,7 +2730,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -2742,7 +2742,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "qa.bot"
@@ -2754,7 +2754,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -2766,7 +2766,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -2778,7 +2778,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -2790,7 +2790,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "mgr.approver"
@@ -2814,7 +2814,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -2826,7 +2826,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -2838,7 +2838,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -2850,7 +2850,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "mgr.approver"
@@ -2922,7 +2922,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -2934,7 +2934,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -2958,7 +2958,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -2970,7 +2970,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -2982,7 +2982,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -3006,7 +3006,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -3018,7 +3018,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "qa.bot"
@@ -3030,7 +3030,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "mgr.approver"
@@ -3054,7 +3054,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "mgr.approver"
@@ -3066,7 +3066,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "qa.bot"
@@ -3078,7 +3078,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -3090,7 +3090,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -3102,7 +3102,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -3114,7 +3114,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -3138,7 +3138,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -3150,7 +3150,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -3162,7 +3162,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -3186,7 +3186,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "mgr.approver"
@@ -3402,7 +3402,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -3438,7 +3438,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -3474,7 +3474,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -3486,7 +3486,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "qa.bot"
@@ -3498,7 +3498,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "qa.bot"
@@ -3510,7 +3510,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -3522,7 +3522,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "mgr.approver"
@@ -3534,7 +3534,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -3546,7 +3546,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -3582,7 +3582,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -3594,7 +3594,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -3606,7 +3606,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "mgr.approver"
@@ -3618,7 +3618,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -3630,7 +3630,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "mgr.approver"
@@ -3858,7 +3858,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -3882,7 +3882,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -3918,7 +3918,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -3930,7 +3930,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "mgr.approver"
@@ -3990,7 +3990,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -4038,7 +4038,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "qa.bot"
@@ -4086,7 +4086,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -4098,7 +4098,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -4110,7 +4110,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "mgr.approver"
@@ -4686,7 +4686,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -4746,7 +4746,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "qa.bot"
@@ -4818,7 +4818,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -4842,7 +4842,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -4890,7 +4890,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "mgr.approver"
@@ -5874,7 +5874,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -5898,7 +5898,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -5910,7 +5910,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "mgr.approver"
@@ -5922,7 +5922,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6342,7 +6342,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6354,7 +6354,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6366,7 +6366,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6390,7 +6390,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "qa.bot"
@@ -6402,7 +6402,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -6498,7 +6498,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6534,7 +6534,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6546,7 +6546,7 @@
     "to": "Deployment Failed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6558,7 +6558,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6738,7 +6738,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6750,7 +6750,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6774,7 +6774,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "qa.bot"
@@ -6786,7 +6786,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -6798,7 +6798,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6810,7 +6810,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "qa.bot"
@@ -6822,7 +6822,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -6834,7 +6834,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -6846,7 +6846,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "mgr.approver"
@@ -6858,7 +6858,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "mgr.approver"
@@ -6870,7 +6870,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6882,7 +6882,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -6894,7 +6894,7 @@
     "to": "Deployment Failed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6906,7 +6906,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6918,7 +6918,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6930,7 +6930,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "qa.bot"
@@ -6942,7 +6942,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -6966,7 +6966,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6978,7 +6978,7 @@
     "to": "Deployment Failed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -6990,7 +6990,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -7002,7 +7002,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "qa.bot"
@@ -7014,7 +7014,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -7026,7 +7026,7 @@
     "to": "Deployment Failed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -7038,7 +7038,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -7110,7 +7110,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -7122,7 +7122,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "qa.bot"
@@ -7134,7 +7134,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -7146,7 +7146,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -7158,7 +7158,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "qa.bot"
@@ -7170,7 +7170,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -7182,7 +7182,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -7194,7 +7194,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -7206,7 +7206,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -7230,7 +7230,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "mgr.approver"
@@ -7278,7 +7278,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -7290,7 +7290,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -7302,7 +7302,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "mgr.approver"
@@ -7314,7 +7314,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -7326,7 +7326,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -7338,7 +7338,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -7350,7 +7350,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "mgr.approver"
@@ -7362,7 +7362,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -7446,7 +7446,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -7458,7 +7458,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -7470,7 +7470,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -7482,7 +7482,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "qa.bot"
@@ -7494,7 +7494,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -7506,7 +7506,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "mgr.approver"
@@ -7518,7 +7518,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -7530,7 +7530,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -7542,7 +7542,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "qa.bot"
@@ -7566,7 +7566,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "ben.infra"
@@ -7590,7 +7590,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "ben.infra",
     "transitioner": "mgr.approver"
@@ -7614,7 +7614,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -7638,7 +7638,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -7650,7 +7650,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "mgr.approver"
@@ -7770,7 +7770,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -7782,7 +7782,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -7794,7 +7794,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -7806,7 +7806,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -7818,7 +7818,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -7830,7 +7830,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -7842,7 +7842,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "qa.bot"
@@ -7854,7 +7854,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "mgr.approver"
@@ -7878,7 +7878,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -7890,7 +7890,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -7914,7 +7914,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -7926,7 +7926,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "evan.portal"
@@ -7950,7 +7950,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "evan.portal",
     "transitioner": "mgr.approver"
@@ -8166,7 +8166,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -8178,7 +8178,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -8202,7 +8202,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -8250,7 +8250,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -8262,7 +8262,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "qa.bot"
@@ -8274,7 +8274,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "qa.bot"
@@ -8286,7 +8286,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "mgr.approver"
@@ -8310,7 +8310,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -8322,7 +8322,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -8334,7 +8334,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -8358,7 +8358,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -8370,7 +8370,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "gary.workorder"
@@ -8382,7 +8382,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -8394,7 +8394,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "gary.workorder",
     "transitioner": "mgr.approver"
@@ -8743,7 +8743,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -8755,7 +8755,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -8766,7 +8766,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "config-service",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -8778,7 +8778,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -8815,7 +8815,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "mgr.fakerson"
   },
@@ -8826,7 +8826,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -8839,7 +8839,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -8850,7 +8850,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "qa.bot"
@@ -8862,7 +8862,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "mgr.approver"
@@ -8898,7 +8898,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -8910,7 +8910,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "platform-auth",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -8922,7 +8922,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "metric-relay",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "anna.platform"
@@ -8935,7 +8935,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -8946,7 +8946,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Platform",
+    "primary_app": "deploy-orchestrator",
     "it_queue": "4Platform",
     "implementer": "anna.platform",
     "transitioner": "mgr.approver"
@@ -8971,7 +8971,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "qa.fakerson"
   },
@@ -8983,7 +8983,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -8995,7 +8995,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -9019,7 +9019,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Services",
     "implementer": "alice.fakerson",
     "transitioner": "mgr.fakerson"
   },
@@ -9367,7 +9367,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "bob.testerly"
   },
@@ -9403,7 +9403,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "bob.testerly"
   },
@@ -9414,7 +9414,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -9439,7 +9439,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "mgr.fakerson"
   },
@@ -9475,7 +9475,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "bob.testerly"
   },
@@ -9486,7 +9486,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "qa.bot"
@@ -9546,7 +9546,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -9570,7 +9570,7 @@
     "to": "Deployment Failed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "resident-portal",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -9595,7 +9595,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "bob.testerly"
   },
@@ -9606,7 +9606,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -9655,7 +9655,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "qa.fakerson"
   },
@@ -9679,7 +9679,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "bob.testerly"
   },
@@ -9691,7 +9691,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "bob.testerly"
   },
@@ -9703,7 +9703,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Services",
     "implementer": "bob.testerly",
     "transitioner": "mgr.fakerson"
   },
@@ -9931,7 +9931,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -9955,7 +9955,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -9966,7 +9966,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -10003,7 +10003,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "mgr.fakerson"
   },
@@ -10014,7 +10014,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "qa.bot"
@@ -10026,7 +10026,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -10039,7 +10039,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10050,7 +10050,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -10062,7 +10062,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "vendor-portal",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -10086,7 +10086,7 @@
     "to": "Deployment Failed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -10110,7 +10110,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -10122,7 +10122,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "mgr.approver"
@@ -10170,7 +10170,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -10207,7 +10207,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10231,7 +10231,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "qa.fakerson"
   },
@@ -10291,7 +10291,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10303,7 +10303,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10327,7 +10327,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10639,7 +10639,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10675,7 +10675,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "qa.fakerson"
   },
@@ -10686,7 +10686,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -10698,7 +10698,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "smart-access",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -10723,7 +10723,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10734,7 +10734,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -10746,7 +10746,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "rent-payments",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "qa.bot"
@@ -10758,7 +10758,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -10771,7 +10771,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "alice.fakerson"
   },
@@ -10807,7 +10807,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "alice.fakerson",
     "transitioner": "mgr.fakerson"
   },
@@ -10818,7 +10818,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "mgr.approver"
@@ -10830,7 +10830,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -10842,7 +10842,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "fran.access"
@@ -10854,7 +10854,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -10866,7 +10866,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Residents",
+    "primary_app": "notification-hub",
     "it_queue": "4Residents",
     "implementer": "fran.access",
     "transitioner": "mgr.approver"
@@ -10878,7 +10878,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "dispatch-service",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "qa.bot"
@@ -10938,7 +10938,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -10950,7 +10950,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "work-order-engine",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "helen.inspect"
@@ -10974,7 +10974,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Services",
+    "primary_app": "inspection-tracker",
     "it_queue": "4Services",
     "implementer": "helen.inspect",
     "transitioner": "mgr.approver"
@@ -11286,7 +11286,7 @@
     "to": "In Assessment",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11298,7 +11298,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -11310,7 +11310,7 @@
     "to": "Pre-Approval",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11346,7 +11346,7 @@
     "to": "Approved for Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -11370,7 +11370,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "qa.bot"
@@ -11382,7 +11382,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11406,7 +11406,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -11418,7 +11418,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "dana.lease"
@@ -11454,7 +11454,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "dana.lease",
     "transitioner": "mgr.approver"
@@ -11682,7 +11682,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11718,7 +11718,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "qa.bot"
@@ -11730,7 +11730,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11742,7 +11742,7 @@
     "to": "Deployment Failed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "screening-service",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11754,7 +11754,7 @@
     "to": "In Development",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11802,7 +11802,7 @@
     "to": "In QA",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "applicant-portal",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11814,7 +11814,7 @@
     "to": "Approved for Production",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "qa.bot"
@@ -11838,7 +11838,7 @@
     "to": "Deploying",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "pricing-optimizer",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11850,7 +11850,7 @@
     "to": "Final Compliance Review",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "casey.rent"
@@ -11862,7 +11862,7 @@
     "to": "Closed",
     "project": "DORA",
     "issue_type": "Change",
-    "primary_app": "4Rent",
+    "primary_app": "lease-engine",
     "it_queue": "4Rent",
     "implementer": "casey.rent",
     "transitioner": "mgr.approver"
@@ -11899,7 +11899,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "carol.coder"
   },
@@ -11911,7 +11911,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "carol.coder"
   },
@@ -11923,7 +11923,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "mgr.fakerson"
   },
@@ -11935,7 +11935,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "carol.coder"
   },
@@ -11947,7 +11947,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "carol.coder"
   },
@@ -11959,7 +11959,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "qa.fakerson"
   },
@@ -11971,7 +11971,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "carol.coder"
   },
@@ -11983,7 +11983,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "carol.coder"
   },
@@ -11995,7 +11995,7 @@
     "project": "FAKETEAM",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "carol.coder",
     "transitioner": "mgr.fakerson"
   },
@@ -12007,7 +12007,7 @@
     "project": "hookgen",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "hook.tester",
     "transitioner": "hook.tester"
   },
@@ -12019,7 +12019,7 @@
     "project": "hookgen",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "hook.tester",
     "transitioner": "hook.tester"
   },
@@ -12031,7 +12031,7 @@
     "project": "hookgen",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "hook.tester",
     "transitioner": "hook.tester"
   },
@@ -12043,7 +12043,7 @@
     "project": "hookgen",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "hook.tester",
     "transitioner": "hook.tester"
   },
@@ -12055,7 +12055,7 @@
     "project": "hookgen",
     "issue_type": "Change",
     "primary_app": "testeam02",
-    "it_queue": "testeam02",
+    "it_queue": "4Rent",
     "implementer": "hook.tester2",
     "transitioner": "hook.tester2"
   },
@@ -12067,7 +12067,7 @@
     "project": "hookgen",
     "issue_type": "Change",
     "primary_app": "testeam01",
-    "it_queue": "testeam01",
+    "it_queue": "4Rent",
     "implementer": "hook.tester3",
     "transitioner": "hook.tester3"
   }
