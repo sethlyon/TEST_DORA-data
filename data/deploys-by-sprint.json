@@ -1,2082 +1,2108 @@
 [
   {
     "sprint": "1.1 Annewakee Trails",
-    "team": "All",
-    "deployments": 25
+    "team": "4Access",
+    "deployments": 3,
+    "failures": 0
   },
   {
-    "sprint": "1.2 Brisbane",
-    "team": "All",
-    "deployments": 34
+    "sprint": "1.1 Annewakee Trails",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "All",
-    "deployments": 30
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "All",
-    "deployments": 20
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "All",
-    "deployments": 23
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "All",
-    "deployments": 25
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "All",
-    "deployments": 24
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "All",
-    "deployments": 21
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "All",
-    "deployments": 16
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "All",
-    "deployments": 23
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "All",
-    "deployments": 16
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "All",
-    "deployments": 31
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "All",
-    "deployments": 38
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "All",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "All",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "4Apply",
+    "deployments": 3,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "4Communities",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "1.2 Brisbane",
-    "team": "4Communities",
-    "deployments": 2
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "4Communities",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "4Communities",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "4Communities",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "4HOA",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "1.2 Brisbane",
-    "team": "4HOA",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "4HOA",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "4HOA",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "4HOA",
-    "deployments": 5
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "4HOA",
-    "deployments": 1
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "4HOA",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "4HOA",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "4Platform",
-    "deployments": 9
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "4Platform",
-    "deployments": 14
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "4Platform",
-    "deployments": 10
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "4Platform",
-    "deployments": 10
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "4Platform",
-    "deployments": 8
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "4Platform",
-    "deployments": 12
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "4Platform",
-    "deployments": 9
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "4Platform",
-    "deployments": 15
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "4Platform",
-    "deployments": 6
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "4Platform",
-    "deployments": 10
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "4Platform",
-    "deployments": 10
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "4Platform",
-    "deployments": 8
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "4Platform",
-    "deployments": 23
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "4Platform",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "4Platform",
-    "deployments": 0
+    "deployments": 8,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "4Rent",
-    "deployments": 4
+    "deployments": 1,
+    "failures": 0
   },
   {
-    "sprint": "1.2 Brisbane",
-    "team": "4Rent",
-    "deployments": 10
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "4Rent",
-    "deployments": 12
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "4Rent",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "4Rent",
-    "deployments": 4
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "4Rent",
-    "deployments": 10
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "4Rent",
-    "deployments": 8
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "4Rent",
-    "deployments": 4
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "4Rent",
-    "deployments": 4
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "4Rent",
-    "deployments": 5
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "4Rent",
-    "deployments": 2
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "4Rent",
-    "deployments": 7
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "4Rent",
-    "deployments": 4
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "4Rent",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "4Rent",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "4Residents",
-    "deployments": 5
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "4Residents",
-    "deployments": 2
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "4Residents",
-    "deployments": 2
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "4Residents",
-    "deployments": 3
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "4Residents",
-    "deployments": 2
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "4Residents",
-    "deployments": 2
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "4Residents",
-    "deployments": 4
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "4Residents",
-    "deployments": 5
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "4Residents",
-    "deployments": 2
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "4Residents",
-    "deployments": 6
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "4Residents",
-    "deployments": 3
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "4Residents",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "4Residents",
-    "deployments": 0
+    "deployments": 2,
+    "failures": 1
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "4Services",
-    "deployments": 5
+    "deployments": 5,
+    "failures": 0
   },
   {
-    "sprint": "1.2 Brisbane",
-    "team": "4Services",
-    "deployments": 5
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "4Services",
-    "deployments": 4
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "4Services",
-    "deployments": 5
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "4Services",
-    "deployments": 3
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "4Services",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "4Services",
-    "deployments": 2
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "4Services",
-    "deployments": 1
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "4Services",
-    "deployments": 2
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "4Services",
-    "deployments": 2
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "4Services",
-    "deployments": 10
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "4Services",
-    "deployments": 8
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "4Services",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "4Services",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "4Users",
+    "deployments": 1,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "Alteryx",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "1.2 Brisbane",
-    "team": "Alteryx",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "Alteryx",
-    "deployments": 1
+    "sprint": "1.1 Annewakee Trails",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "1.4 Durbans Point",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "Alteryx",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "Alteryx",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "Alteryx",
-    "deployments": 0
+    "sprint": "1.1 Annewakee Trails",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "Box",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "Box",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "Box",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "BuildPro",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "BuildPro",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "BuildPro",
-    "deployments": 0
+    "deployments": 1,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 2
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "D365 CRM (Legacy)",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "Data Warehouse",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "Data Warehouse",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "Data Warehouse",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "Data Warehouse",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "InContact",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "InContact",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "InContact",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "JDE",
-    "deployments": 1
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "JDE",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "JDE",
-    "deployments": 0
+    "deployments": 1,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.2 Brisbane",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.3 Cactus Cliff",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.4 Durbans Point",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.5 Eastwood",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.6 Foxtail Glen",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "1.7 Grafton Ridge",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.1 Highland Pointe",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.2 Iridonia",
-    "team": "Yardi RentCafe",
-    "deployments": 1
-  },
-  {
-    "sprint": "2.3 Jasmine Point",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.4 Kindlewood",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.5 Legacy Farms",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "2.6 Malone Place",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.1 Norman Estates",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "Yardi RentCafe",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "Yardi RentCafe",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.1 Annewakee Trails",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.1 Annewakee Trails",
+    "team": "All",
+    "deployments": 25,
+    "failures": 1
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Access",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Apply",
+    "deployments": 8,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Communities",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Enterprise",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Platform",
+    "deployments": 13,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Rent",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Residents",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Services",
+    "deployments": 5,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.2 Brisbane",
     "team": "Yardi Voyager",
-    "deployments": 1
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "All",
+    "deployments": 34,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Access",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Apply",
+    "deployments": 9,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Communities",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Enterprise",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Platform",
+    "deployments": 8,
+    "failures": 1
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Rent",
+    "deployments": 3,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Residents",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Services",
+    "deployments": 4,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "4Users",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Alteryx",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Data Warehouse",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "InContact",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.3 Cactus Cliff",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "All",
+    "deployments": 30,
+    "failures": 1
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Access",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Apply",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Enterprise",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4HOA",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Platform",
+    "deployments": 7,
+    "failures": 1
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Rent",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Residents",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Services",
+    "deployments": 5,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "4Users",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Box",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.4 Durbans Point",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "All",
+    "deployments": 20,
+    "failures": 1
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Access",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Apply",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4HOA",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Platform",
+    "deployments": 8,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Rent",
+    "deployments": 3,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Residents",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Services",
+    "deployments": 3,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Alteryx",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Data Warehouse",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.5 Eastwood",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "All",
+    "deployments": 23,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Access",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Apply",
+    "deployments": 5,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Platform",
+    "deployments": 11,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Rent",
+    "deployments": 5,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Residents",
+    "deployments": 2,
+    "failures": 1
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Services",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Azure DevOps",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.6 Foxtail Glen",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "All",
+    "deployments": 25,
+    "failures": 1
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Access",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Apply",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Enterprise",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4HOA",
+    "deployments": 5,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Payments",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Platform",
+    "deployments": 8,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Rent",
+    "deployments": 7,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Residents",
+    "deployments": 0,
+    "failures": 1
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "1.7 Grafton Ridge",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "All",
+    "deployments": 24,
+    "failures": 1
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Access",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Apply",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Platform",
+    "deployments": 15,
+    "failures": 1
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Rent",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Residents",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Services",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "2.1 Highland Pointe",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "All",
+    "deployments": 21,
+    "failures": 1
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Access",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Apply",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Platform",
+    "deployments": 6,
+    "failures": 2
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Rent",
+    "deployments": 4,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Residents",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Services",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Yardi RentCafe",
+    "deployments": 1,
+    "failures": 0
   },
   {
     "sprint": "2.2 Iridonia",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "All",
+    "deployments": 16,
+    "failures": 2
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Access",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Apply",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4HOA",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Platform",
+    "deployments": 9,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Rent",
+    "deployments": 5,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Residents",
+    "deployments": 4,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Services",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "2.3 Jasmine Point",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "All",
+    "deployments": 23,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Access",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Access Mobile",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Apply",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Platform",
+    "deployments": 10,
+    "failures": 2
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Rent",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Residents",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Services",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "2.4 Kindlewood",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "All",
+    "deployments": 16,
+    "failures": 2
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Access",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Access Mobile",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Apply",
+    "deployments": 2,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Enterprise",
+    "deployments": 1,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Platform",
+    "deployments": 7,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Rent",
+    "deployments": 5,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Residents",
+    "deployments": 3,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Services",
+    "deployments": 10,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Azure Services",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "2.5 Legacy Farms",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "All",
+    "deployments": 31,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Access",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Access Mobile",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Apply",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Communities",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Enterprise",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4HOA",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Leasing",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Payments",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Platform",
+    "deployments": 19,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Rent",
+    "deployments": 4,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Resident Management",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Residents",
+    "deployments": 3,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Services",
+    "deployments": 8,
+    "failures": 1
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "4Users",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Alteryx",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Azure DevOps",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Azure Kubernetes Service/AKS",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Azure Services",
+    "deployments": 4,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Box",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "BuildPro",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "D365 CRM (Legacy)",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Data Warehouse",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "InContact",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "JDE",
+    "deployments": 0,
+    "failures": 0
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Yardi RentCafe",
+    "deployments": 0,
+    "failures": 0
   },
   {
     "sprint": "2.6 Malone Place",
     "team": "Yardi Voyager",
-    "deployments": 0
+    "deployments": 0,
+    "failures": 0
   },
   {
-    "sprint": "3.1 Norman Estates",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.2 Ozora Heights",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.3 Panther Creek",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.4 Quermia",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.5 Rivermist",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.6 Sapphire Acres",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "3.7 Trotters Crossing",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.1 Umstead",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.2 Victory Landing",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.3 Wildwood",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.4 Xagobah",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.5 Yavin",
-    "team": "Yardi Voyager",
-    "deployments": 0
-  },
-  {
-    "sprint": "4.6 Zarabrooke",
-    "team": "Yardi Voyager",
-    "deployments": 0
+    "sprint": "2.6 Malone Place",
+    "team": "All",
+    "deployments": 38,
+    "failures": 1
   }
 ]

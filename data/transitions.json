@@ -360,6 +360,19 @@
     "sprint": "1.1 Annewakee Trails"
   },
   {
+    "ts": "2026-01-05T06:40:28.000-0800",
+    "key": "PROJ08-1002",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ08",
+    "issue_type": "Change",
+    "primary_app": "4Residents",
+    "implementer": "user036",
+    "transitioner": "user021",
+    "sprint": "1.1 Annewakee Trails",
+    "source": "release-tracker"
+  },
+  {
     "ts": "2026-01-05T07:41:47.305-0800",
     "key": "PROJ08-1003",
     "from": "Initial Review",
@@ -12576,6 +12589,19 @@
     "sprint": "1.3 Cactus Cliff"
   },
   {
+    "ts": "2026-02-10T14:10:00.000-0800",
+    "key": "PROJ05-1040",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ05",
+    "issue_type": "Change",
+    "primary_app": "4Platform",
+    "implementer": "user022",
+    "transitioner": "user022",
+    "sprint": "1.3 Cactus Cliff",
+    "source": "release-tracker"
+  },
+  {
     "ts": "2026-02-10T16:39:43.834-0800",
     "key": "PROJ07-1011",
     "from": "Approved for Production",
@@ -14266,6 +14292,19 @@
     "implementer": "user001",
     "transitioner": "user086",
     "sprint": "1.4 Durbans Point"
+  },
+  {
+    "ts": "2026-02-20T12:00:00.000-0800",
+    "key": "PROJ05-1245",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ05",
+    "issue_type": "Microservice Change",
+    "primary_app": "4Platform",
+    "implementer": "user048",
+    "transitioner": "user048",
+    "sprint": "1.4 Durbans Point",
+    "source": "release-tracker"
   },
   {
     "ts": "2026-02-20T12:48:58.678-0800",
@@ -20026,6 +20065,19 @@
     "implementer": "user075",
     "transitioner": "user021",
     "sprint": "1.6 Foxtail Glen"
+  },
+  {
+    "ts": "2026-03-16T19:21:12.000-0800",
+    "key": "PROJ08-1035",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ08",
+    "issue_type": "Change",
+    "primary_app": "4Residents",
+    "implementer": "user075",
+    "transitioner": "user021",
+    "sprint": "1.6 Foxtail Glen",
+    "source": "release-tracker"
   },
   {
     "ts": "2026-03-17T07:52:00.772-0700",
@@ -26628,6 +26680,19 @@
     "sprint": "1.7 Grafton Ridge"
   },
   {
+    "ts": "2026-04-06T18:41:43.000-0800",
+    "key": "PROJ08-1042",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ08",
+    "issue_type": "Change",
+    "primary_app": "4Residents",
+    "implementer": "user075",
+    "transitioner": "user075",
+    "sprint": "1.7 Grafton Ridge",
+    "source": "release-tracker"
+  },
+  {
     "ts": "2026-04-06T21:02:15.357-0700",
     "key": "PROJ07-1025",
     "from": "Approved for Production",
@@ -31284,6 +31349,19 @@
     "sprint": "2.1 Highland Pointe"
   },
   {
+    "ts": "2026-04-20T12:00:00.000-0800",
+    "key": "PROJ05-1246",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ05",
+    "issue_type": "Microservice Change",
+    "primary_app": "4Platform",
+    "implementer": "user015",
+    "transitioner": "user015",
+    "sprint": "2.1 Highland Pointe",
+    "source": "release-tracker"
+  },
+  {
     "ts": "2026-04-20T12:22:05.479-0700",
     "key": "PROJ05-1108",
     "from": "Final Approval",
@@ -33360,6 +33438,19 @@
     "sprint": "2.2 Iridonia"
   },
   {
+    "ts": "2026-04-29T12:00:00.000-0800",
+    "key": "PROJ05-1247",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ05",
+    "issue_type": "Microservice Change",
+    "primary_app": "4Platform",
+    "implementer": "user022",
+    "transitioner": "user022",
+    "sprint": "2.2 Iridonia",
+    "source": "release-tracker"
+  },
+  {
     "ts": "2026-04-29T12:02:04.790-0700",
     "key": "PROJ01-1005",
     "from": "Final Compliance Review",
@@ -34222,6 +34313,19 @@
     "implementer": "user075",
     "transitioner": "user075",
     "sprint": "2.2 Iridonia"
+  },
+  {
+    "ts": "2026-05-05T12:00:00.000-0800",
+    "key": "PROJ05-1248",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ05",
+    "issue_type": "Change",
+    "primary_app": "4Platform",
+    "implementer": "user022",
+    "transitioner": "user022",
+    "sprint": "2.2 Iridonia",
+    "source": "release-tracker"
   },
   {
     "ts": "2026-05-05T12:20:01.470-0700",
@@ -40152,6 +40256,19 @@
     "sprint": "2.4 Kindlewood"
   },
   {
+    "ts": "2026-05-28T10:13:17.000-0800",
+    "key": "PROJ05-1120",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ05",
+    "issue_type": "Change",
+    "primary_app": "4Platform",
+    "implementer": "user022",
+    "transitioner": "user021",
+    "sprint": "2.4 Kindlewood",
+    "source": "release-tracker"
+  },
+  {
     "ts": "2026-05-28T10:17:01.456-0700",
     "key": "PROJ07-1049",
     "from": "Open",
@@ -40198,6 +40315,19 @@
     "implementer": "user085",
     "transitioner": "user085",
     "sprint": "2.4 Kindlewood"
+  },
+  {
+    "ts": "2026-05-28T10:22:21.000-0800",
+    "key": "PROJ05-1119",
+    "from": "Deployed",
+    "to": "Deployment Failed",
+    "project": "PROJ05",
+    "issue_type": "Change",
+    "primary_app": "4Platform",
+    "implementer": "user022",
+    "transitioner": "user021",
+    "sprint": "2.4 Kindlewood",
+    "source": "release-tracker"
   },
   {
     "ts": "2026-05-28T10:22:25.410-0700",
