@@ -1,50 +1,14 @@
 {
-  "Team01": {
-    "description": "Infrastructure, platform tooling, observability",
-    "members": [
-      "patel.infra",
-      "cho.kubernetes",
-      "okonkwo.terraform",
-      "lindqvist.pipelines",
-      "nakamura.sre",
-      "garcia.observability",
-      "hansen.cicd"
-    ]
+  "Starfleet Engineering": {
+    "description": "Infrastructure, platform tooling, observability"
   },
-  "Team02": {
-    "description": "Leasing, applications, customer onboarding",
-    "members": [
-      "martinez.leasing",
-      "johnson.apps",
-      "kim.onboarding",
-      "oduya.screening",
-      "fitzgerald.payments",
-      "abboud.listings",
-      "chen.tours"
-    ]
+  "Rebel Alliance": {
+    "description": "Leasing, applications, customer onboarding"
   },
-  "Team03": {
-    "description": "Resident portal, access, payments",
-    "members": [
-      "washington.portal",
-      "pham.access",
-      "rodriguez.payments",
-      "campbell.notifications",
-      "singh.mobile",
-      "kowalski.smartlock",
-      "tanaka.billing"
-    ]
+  "Justice League": {
+    "description": "Resident portal, access, payments"
   },
-  "Team04": {
-    "description": "Work orders, inspections, vendor coordination",
-    "members": [
-      "thompson.workorders",
-      "ali.inspections",
-      "berg.vendors",
-      "moreau.scheduling",
-      "dubois.dispatch",
-      "silva.inventory",
-      "novak.compliance"
-    ]
+  "Avengers Initiative": {
+    "description": "Work orders, inspections, vendor coordination"
   }
 }
