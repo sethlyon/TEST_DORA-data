@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: append-transition
+  cancel-in-progress: false
+
 jobs:
   append:
     runs-on: ubuntu-latest
