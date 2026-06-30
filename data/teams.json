@@ -1,14 +1,14 @@
 {
-  "Starfleet Engineering": {
+  "4Platform": {
     "description": "Infrastructure, platform tooling, observability"
   },
-  "Rebel Alliance": {
+  "4Rent": {
     "description": "Leasing, applications, customer onboarding"
   },
-  "Justice League": {
+  "4Residents": {
     "description": "Resident portal, access, payments"
   },
-  "Avengers Initiative": {
+  "4Services": {
     "description": "Work orders, inspections, vendor coordination"
   }
 }
