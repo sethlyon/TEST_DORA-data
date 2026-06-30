@@ -1,80 +1,47 @@
 {
-  "Team01": {
-    "description": "Team Team01"
+  "4Communities": {
+    "description": "4Communities"
   },
-  "Team02": {
-    "description": "Team Team02"
+  "4HOA": {
+    "description": "4HOA"
   },
-  "Team03": {
-    "description": "Team Team03"
+  "4Platform": {
+    "description": "4Platform"
   },
-  "Team04": {
-    "description": "Team Team04"
+  "4Rent": {
+    "description": "4Rent"
   },
-  "Team05": {
-    "description": "Team Team05"
+  "4Residents": {
+    "description": "4Residents"
   },
-  "Team06": {
-    "description": "Team Team06"
+  "4Services": {
+    "description": "4Services"
   },
-  "Team07": {
-    "description": "Team Team07"
+  "Alteryx": {
+    "description": "Alteryx"
   },
-  "Team08": {
-    "description": "Team Team08"
+  "Box": {
+    "description": "Box"
   },
-  "Team09": {
-    "description": "Team Team09"
+  "BuildPro": {
+    "description": "BuildPro"
   },
-  "Team10": {
-    "description": "Team Team10"
+  "D365 CRM (Legacy)": {
+    "description": "D365 CRM (Legacy)"
   },
-  "Team11": {
-    "description": "Team Team11"
+  "Data Warehouse": {
+    "description": "Data Warehouse"
   },
-  "Team12": {
-    "description": "Team Team12"
+  "InContact": {
+    "description": "InContact"
   },
-  "Team13": {
-    "description": "Team Team13"
+  "JDE": {
+    "description": "JDE"
   },
-  "Team14": {
-    "description": "Team Team14"
+  "Yardi RentCafe": {
+    "description": "Yardi RentCafe"
   },
-  "Team15": {
-    "description": "Team Team15"
-  },
-  "Team16": {
-    "description": "Team Team16"
-  },
-  "Team17": {
-    "description": "Team Team17"
-  },
-  "Team18": {
-    "description": "Team Team18"
-  },
-  "Team19": {
-    "description": "Team Team19"
-  },
-  "Team20": {
-    "description": "Team Team20"
-  },
-  "Team21": {
-    "description": "Team Team21"
-  },
-  "Team22": {
-    "description": "Team Team22"
-  },
-  "Team23": {
-    "description": "Team Team23"
-  },
-  "Team24": {
-    "description": "Team Team24"
-  },
-  "Team25": {
-    "description": "Team Team25"
-  },
-  "Team26": {
-    "description": "Team Team26"
+  "Yardi Voyager": {
+    "description": "Yardi Voyager"
   }
 }
