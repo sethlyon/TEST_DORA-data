@@ -50,7 +50,22 @@ jobs:
             jq --argjson entry "$NEW_ENTRY" '. += [$entry]' data/transitions.json > data/transitions.tmp \
               && mv data/transitions.tmp data/transitions.json
 
-            git add data/transitions.json
+            # Regenerate deploys-by-sprint.json (pre-aggregated for dashboard)
+            jq --slurpfile sprints data/sprints.json '
+              [.[] | select(.to == "Deploying")] | group_by(.sprint) |
+              map({sprint: .[0].sprint, deployments: length}) as $counts |
+              [$sprints[0][] | {sprint: .name, deployments: ([$counts[] | select(.sprint == .sprint)] | .[0].deployments // 0)}]
+            ' data/transitions.json > data/deploys-by-sprint.tmp
+
+            # Simpler regeneration using sprints as base
+            jq -n --slurpfile sprints data/sprints.json --slurpfile trans data/transitions.json '
+              [$sprints[0][] | .name as $name | {
+                sprint: $name,
+                deployments: [$trans[0][] | select(.to == "Deploying" and .sprint == $name)] | length
+              }]
+            ' > data/deploys-by-sprint.json
+
+            git add data/transitions.json data/deploys-by-sprint.json
             git commit -m "feat: transition ${{ github.event.client_payload.key }} -> ${{ github.event.client_payload.to }}"
 
             if git push origin main; then
