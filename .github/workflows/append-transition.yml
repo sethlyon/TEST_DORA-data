@@ -1,0 +1,36 @@
+name: Append Jira Transition
+
+on:
+  repository_dispatch:
+    types: [jira-transition]
+
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Append transition event
+        run: |
+          echo '${{ toJson(github.event.client_payload) }}' | \
+            jq -c '{
+              ts: .ts,
+              key: .key,
+              from: .from,
+              to: .to,
+              project: .project,
+              issue_type: .issue_type,
+              primary_app: .primary_app,
+              it_queue: .it_queue,
+              implementer: .implementer,
+              transitioner: .transitioner
+            }' >> data/transitions.jsonl
+
+      - name: Commit
+        run: |
+          git config user.name "jira-automation[bot]"
+          git config user.email "jira-automation[bot]@users.noreply.github.com"
+          git add data/transitions.jsonl
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "feat: transition ${{ github.event.client_payload.key }} -> ${{ github.event.client_payload.to }}"
+          git push
