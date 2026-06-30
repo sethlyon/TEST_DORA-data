@@ -1,106 +1,652 @@
 [
   {
     "sprint": "1.1 Annewakee Trails",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.1 Annewakee Trails",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.1 Annewakee Trails",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.1 Annewakee Trails",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "1.2 Brisbane",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "1.3 Cactus Cliff",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "1.4 Durbans Point",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "1.5 Eastwood",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "1.6 Foxtail Glen",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "1.7 Grafton Ridge",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "2.1 Highland Pointe",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "2.2 Iridonia",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "2.3 Jasmine Point",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "2.4 Kindlewood",
-    "deployments": 36
+    "team": "Team01",
+    "deployments": 9
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Team02",
+    "deployments": 9
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Team03",
+    "deployments": 12
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "Team04",
+    "deployments": 6
   },
   {
     "sprint": "2.5 Legacy Farms",
-    "deployments": 54
+    "team": "Team01",
+    "deployments": 15
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Team02",
+    "deployments": 13
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Team03",
+    "deployments": 14
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "Team04",
+    "deployments": 12
   },
   {
     "sprint": "2.6 Malone Place",
-    "deployments": 60
+    "team": "Team01",
+    "deployments": 9
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Team02",
+    "deployments": 18
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Team03",
+    "deployments": 18
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "Team04",
+    "deployments": 15
   },
   {
     "sprint": "3.1 Norman Estates",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.1 Norman Estates",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.1 Norman Estates",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.1 Norman Estates",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "3.2 Ozora Heights",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.2 Ozora Heights",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.2 Ozora Heights",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.2 Ozora Heights",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "3.3 Panther Creek",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.3 Panther Creek",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.3 Panther Creek",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.3 Panther Creek",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "3.4 Quermia",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.4 Quermia",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.4 Quermia",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.4 Quermia",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "3.5 Rivermist",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.5 Rivermist",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.5 Rivermist",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.5 Rivermist",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "3.6 Sapphire Acres",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.6 Sapphire Acres",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.6 Sapphire Acres",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.6 Sapphire Acres",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "3.7 Trotters Crossing",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.7 Trotters Crossing",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.7 Trotters Crossing",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.7 Trotters Crossing",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "4.1 Umstead",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.1 Umstead",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.1 Umstead",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.1 Umstead",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "4.2 Victory Landing",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.2 Victory Landing",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.2 Victory Landing",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.2 Victory Landing",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "4.3 Wildwood",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.3 Wildwood",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.3 Wildwood",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.3 Wildwood",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "4.4 Xagobah",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.4 Xagobah",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.4 Xagobah",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.4 Xagobah",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "4.5 Yavin",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.5 Yavin",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.5 Yavin",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.5 Yavin",
+    "team": "Team04",
     "deployments": 0
   },
   {
     "sprint": "4.6 Zarabrooke",
+    "team": "Team01",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.6 Zarabrooke",
+    "team": "Team02",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.6 Zarabrooke",
+    "team": "Team03",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.6 Zarabrooke",
+    "team": "Team04",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.1 Annewakee Trails",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.2 Brisbane",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.3 Cactus Cliff",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.4 Durbans Point",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.5 Eastwood",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.6 Foxtail Glen",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "1.7 Grafton Ridge",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.1 Highland Pointe",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.2 Iridonia",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.3 Jasmine Point",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "2.4 Kindlewood",
+    "team": "All",
+    "deployments": 36
+  },
+  {
+    "sprint": "2.5 Legacy Farms",
+    "team": "All",
+    "deployments": 54
+  },
+  {
+    "sprint": "2.6 Malone Place",
+    "team": "All",
+    "deployments": 60
+  },
+  {
+    "sprint": "3.1 Norman Estates",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.2 Ozora Heights",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.3 Panther Creek",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.4 Quermia",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.5 Rivermist",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.6 Sapphire Acres",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "3.7 Trotters Crossing",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.1 Umstead",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.2 Victory Landing",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.3 Wildwood",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.4 Xagobah",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.5 Yavin",
+    "team": "All",
+    "deployments": 0
+  },
+  {
+    "sprint": "4.6 Zarabrooke",
+    "team": "All",
     "deployments": 0
   }
 ]
