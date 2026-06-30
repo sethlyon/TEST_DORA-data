@@ -35,7 +35,6 @@ jobs:
             project: .project,
             issue_type: .issue_type,
             primary_app: .primary_app,
-            it_queue: .it_queue,
             implementer: .implementer,
             transitioner: .transitioner,
             sprint: $sprint
