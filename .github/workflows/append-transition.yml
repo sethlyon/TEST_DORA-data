@@ -7,37 +7,51 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: append-transition
-  cancel-in-progress: false
-
 jobs:
   append:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Append transition event
-        run: |
-          echo '${{ toJson(github.event.client_payload) }}' | \
-            jq -c '{
-              ts: .ts,
-              key: .key,
-              from: .from,
-              to: .to,
-              project: .project,
-              issue_type: .issue_type,
-              primary_app: .primary_app,
-              it_queue: .it_queue,
-              implementer: .implementer,
-              transitioner: .transitioner
-            }' >> data/transitions.jsonl
-
-      - name: Commit
+      - name: Append and push (with retry)
         run: |
           git config user.name "jira-automation[bot]"
           git config user.email "jira-automation[bot]@users.noreply.github.com"
-          git add data/transitions.jsonl
-          git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "feat: transition ${{ github.event.client_payload.key }} -> ${{ github.event.client_payload.to }}"
-          git push
+
+          EVENT='${{ toJson(github.event.client_payload) }}'
+          NEW_ENTRY=$(echo "$EVENT" | jq -c '{
+            ts: .ts,
+            key: .key,
+            from: .from,
+            to: .to,
+            project: .project,
+            issue_type: .issue_type,
+            primary_app: .primary_app,
+            it_queue: .it_queue,
+            implementer: .implementer,
+            transitioner: .transitioner
+          }')
+
+          for attempt in 1 2 3 4 5; do
+            # Always start from latest remote
+            git fetch origin main
+            git reset --hard origin/main
+
+            # Append to JSON array
+            jq --argjson entry "$NEW_ENTRY" '. += [$entry]' data/transitions.json > data/transitions.tmp \
+              && mv data/transitions.tmp data/transitions.json
+
+            git add data/transitions.json
+            git commit -m "feat: transition ${{ github.event.client_payload.key }} -> ${{ github.event.client_payload.to }}"
+
+            if git push origin main; then
+              echo "Pushed on attempt $attempt"
+              exit 0
+            fi
+
+            echo "Push failed (attempt $attempt), retrying..."
+            sleep $((attempt * 2))
+          done
+
+          echo "Failed after 5 attempts"
+          exit 1
