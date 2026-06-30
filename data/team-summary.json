@@ -1,0 +1,162 @@
+[
+  {
+    "team": "4Communities",
+    "total_deployments": 3,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 2,
+    "deploy_frequency": 1.5,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "4HOA",
+    "total_deployments": 8,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 4,
+    "deploy_frequency": 2.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "4Platform",
+    "total_deployments": 144,
+    "total_failures": 7,
+    "total_rework": 8,
+    "sprints_active": 13,
+    "deploy_frequency": 11.1,
+    "failure_rate": 0.0464,
+    "rework_rate": 0.0556
+  },
+  {
+    "team": "4Rent",
+    "total_deployments": 75,
+    "total_failures": 0,
+    "total_rework": 3,
+    "sprints_active": 13,
+    "deploy_frequency": 5.8,
+    "failure_rate": 0.0,
+    "rework_rate": 0.04
+  },
+  {
+    "team": "4Residents",
+    "total_deployments": 36,
+    "total_failures": 3,
+    "total_rework": 1,
+    "sprints_active": 11,
+    "deploy_frequency": 3.3,
+    "failure_rate": 0.0769,
+    "rework_rate": 0.0278
+  },
+  {
+    "team": "4Services",
+    "total_deployments": 48,
+    "total_failures": 1,
+    "total_rework": 7,
+    "sprints_active": 12,
+    "deploy_frequency": 4.0,
+    "failure_rate": 0.0204,
+    "rework_rate": 0.1458
+  },
+  {
+    "team": "Alteryx",
+    "total_deployments": 2,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 2,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "Box",
+    "total_deployments": 1,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 1,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "BuildPro",
+    "total_deployments": 1,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 1,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "D365 CRM (Legacy)",
+    "total_deployments": 2,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 1,
+    "deploy_frequency": 2.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "Data Warehouse",
+    "total_deployments": 2,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 2,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "InContact",
+    "total_deployments": 1,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 1,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "JDE",
+    "total_deployments": 1,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 1,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "Yardi RentCafe",
+    "total_deployments": 1,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 1,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "Yardi Voyager",
+    "total_deployments": 1,
+    "total_failures": 0,
+    "total_rework": 0,
+    "sprints_active": 1,
+    "deploy_frequency": 1.0,
+    "failure_rate": 0.0,
+    "rework_rate": 0.0
+  },
+  {
+    "team": "All",
+    "total_deployments": 326,
+    "total_failures": 11,
+    "total_rework": 19,
+    "sprints_active": 13,
+    "deploy_frequency": 25.1,
+    "failure_rate": 0.0326,
+    "rework_rate": 0.0583
+  }
+]
