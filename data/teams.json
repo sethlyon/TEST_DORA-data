@@ -1,14 +1,80 @@
 {
-  "4Platform": {
-    "description": "Infrastructure, platform tooling, observability"
+  "Team01": {
+    "description": "Team Team01"
   },
-  "4Rent": {
-    "description": "Leasing, applications, customer onboarding"
+  "Team02": {
+    "description": "Team Team02"
   },
-  "4Residents": {
-    "description": "Resident portal, access, payments"
+  "Team03": {
+    "description": "Team Team03"
   },
-  "4Services": {
-    "description": "Work orders, inspections, vendor coordination"
+  "Team04": {
+    "description": "Team Team04"
+  },
+  "Team05": {
+    "description": "Team Team05"
+  },
+  "Team06": {
+    "description": "Team Team06"
+  },
+  "Team07": {
+    "description": "Team Team07"
+  },
+  "Team08": {
+    "description": "Team Team08"
+  },
+  "Team09": {
+    "description": "Team Team09"
+  },
+  "Team10": {
+    "description": "Team Team10"
+  },
+  "Team11": {
+    "description": "Team Team11"
+  },
+  "Team12": {
+    "description": "Team Team12"
+  },
+  "Team13": {
+    "description": "Team Team13"
+  },
+  "Team14": {
+    "description": "Team Team14"
+  },
+  "Team15": {
+    "description": "Team Team15"
+  },
+  "Team16": {
+    "description": "Team Team16"
+  },
+  "Team17": {
+    "description": "Team Team17"
+  },
+  "Team18": {
+    "description": "Team Team18"
+  },
+  "Team19": {
+    "description": "Team Team19"
+  },
+  "Team20": {
+    "description": "Team Team20"
+  },
+  "Team21": {
+    "description": "Team Team21"
+  },
+  "Team22": {
+    "description": "Team Team22"
+  },
+  "Team23": {
+    "description": "Team Team23"
+  },
+  "Team24": {
+    "description": "Team Team24"
+  },
+  "Team25": {
+    "description": "Team Team25"
+  },
+  "Team26": {
+    "description": "Team Team26"
   }
 }
