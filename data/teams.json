@@ -1,5 +1,5 @@
 {
-  "4Platform": {
+  "Team01": {
     "description": "Infrastructure, platform tooling, observability",
     "members": [
       "patel.infra",
@@ -11,7 +11,7 @@
       "hansen.cicd"
     ]
   },
-  "4Rent": {
+  "Team02": {
     "description": "Leasing, applications, customer onboarding",
     "members": [
       "martinez.leasing",
@@ -23,7 +23,7 @@
       "chen.tours"
     ]
   },
-  "4Residents": {
+  "Team03": {
     "description": "Resident portal, access, payments",
     "members": [
       "washington.portal",
@@ -35,7 +35,7 @@
       "tanaka.billing"
     ]
   },
-  "4Services": {
+  "Team04": {
     "description": "Work orders, inspections, vendor coordination",
     "members": [
       "thompson.workorders",
