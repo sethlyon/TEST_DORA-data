@@ -42,3 +42,4 @@
 {"ts":"2026-06-29T19:50:00Z","key":"HOOK-002","from":"Approved for Production","to":"Deploying","project":"hookgen","issue_type":"Change","primary_app":"testeam02","it_queue":"testeam02","implementer":"hook.tester2","transitioner":"hook.tester2"}
 {"ts":"2026-06-29T19:40:00Z","key":"HOOK-001","from":"Open","to":"In Assessment","project":"hookgen","issue_type":"Change","primary_app":"testeam01","it_queue":"testeam01","implementer":"hook.tester","transitioner":"hook.tester"}
 {"ts":"2026-06-29T19:44:00Z","key":"HOOK-001","from":"In Development","to":"In QA","project":"hookgen","issue_type":"Change","primary_app":"testeam01","it_queue":"testeam01","implementer":"hook.tester","transitioner":"hook.tester"}
+{"ts":"2026-06-29T19:47:00Z","key":"HOOK-001","from":"Deploying","to":"Final Compliance Review","project":"hookgen","issue_type":"Change","primary_app":"testeam01","it_queue":"testeam01","implementer":"hook.tester","transitioner":"hook.tester"}
