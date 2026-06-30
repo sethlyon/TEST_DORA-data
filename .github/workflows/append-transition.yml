@@ -4,6 +4,9 @@ on:
   repository_dispatch:
     types: [jira-transition]
 
+permissions:
+  contents: write
+
 jobs:
   append:
     runs-on: ubuntu-latest
