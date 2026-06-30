@@ -1,0 +1,50 @@
+{
+  "4Platform": {
+    "description": "Infrastructure, platform tooling, observability",
+    "members": [
+      "patel.infra",
+      "cho.kubernetes",
+      "okonkwo.terraform",
+      "lindqvist.pipelines",
+      "nakamura.sre",
+      "garcia.observability",
+      "hansen.cicd"
+    ]
+  },
+  "4Rent": {
+    "description": "Leasing, applications, customer onboarding",
+    "members": [
+      "martinez.leasing",
+      "johnson.apps",
+      "kim.onboarding",
+      "oduya.screening",
+      "fitzgerald.payments",
+      "abboud.listings",
+      "chen.tours"
+    ]
+  },
+  "4Residents": {
+    "description": "Resident portal, access, payments",
+    "members": [
+      "washington.portal",
+      "pham.access",
+      "rodriguez.payments",
+      "campbell.notifications",
+      "singh.mobile",
+      "kowalski.smartlock",
+      "tanaka.billing"
+    ]
+  },
+  "4Services": {
+    "description": "Work orders, inspections, vendor coordination",
+    "members": [
+      "thompson.workorders",
+      "ali.inspections",
+      "berg.vendors",
+      "moreau.scheduling",
+      "dubois.dispatch",
+      "silva.inventory",
+      "novak.compliance"
+    ]
+  }
+}
