@@ -19,7 +19,15 @@ jobs:
           git config user.email "jira-automation[bot]@users.noreply.github.com"
 
           EVENT='${{ toJson(github.event.client_payload) }}'
-          NEW_ENTRY=$(echo "$EVENT" | jq -c '{
+
+          # Derive sprint from ts using sprints.json lookup
+          SPRINT=$(echo "$EVENT" | jq -r --slurpfile sprints data/sprints.json '
+            .ts[:10] as $date |
+            ($sprints[0] | map(select($date >= .start and $date < .end)) | .[0].name) // "Unknown"
+          ')
+          echo "Derived sprint: $SPRINT"
+
+          NEW_ENTRY=$(echo "$EVENT" | jq -c --arg sprint "$SPRINT" '{
             ts: .ts,
             key: .key,
             from: .from,
@@ -29,7 +37,8 @@ jobs:
             primary_app: .primary_app,
             it_queue: .it_queue,
             implementer: .implementer,
-            transitioner: .transitioner
+            transitioner: .transitioner,
+            sprint: $sprint
           }')
 
           for attempt in 1 2 3 4 5; do
